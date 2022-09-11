@@ -5,3 +5,22 @@
 .loser{
     color: red;
 }
+
+.card-footer{
+  width: 100%;
+}
+
+.card-footer #btn1{
+   width: 40%;   
+   font-size: 15px;
+}
+
+.card-footer #btn2{
+   width: 40%;  
+  font-size: 15px;
+}
+
+.card-footer #reset{
+   width: 20%; 
+  font-size: 15px;
+}
